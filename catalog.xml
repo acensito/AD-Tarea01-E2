@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/X:/TAREAS/Rodriguez_Gutierrez_Felipe_AD01_Tarea/AD-Tarea01-E2/../cursos.xsd" uri="xml-resources/jaxb/cursoBinding/cursos.xsd"/>
+    <system systemId="file:/X:/TAREAS/Rodriguez_Gutierrez_Felipe_AD01_Tarea/AD-Tarea01-E2/recursos/cursos.xsd" uri="xml-resources/jaxb/cursoBinding/cursos.xsd"/>
+</catalog>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<curso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cursos.xsd">
+
+    <profesor pais="Espana">
+        <nombre>Juan Perico</nombre>
+        <asignatura>Acceso a Datos</asignatura>
+        <especialidad>Bases de Datos</especialidad>
+        <curso>2017-2018</curso>
+        <modalidad>0</modalidad>
+        <emailProf>uncorreo@hotmail.com</emailProf>
+    </profesor>
+
+    <comentario>Nada que consignar</comentario>
+
+    <alumnos>
+        <alumno>
+            <nombreAlumno>Antonio Luis</nombreAlumno>
+            <edad>22</edad>
+            <direccion>Calle Solea 22, Brenes</direccion>
+            <comentario>Sin comentarios</comentario>
+            <telefono>999999999</telefono>
+            <emailAlumno>doscorreos@hotmail.com</emailAlumno>
+        </alumno>
+        <alumno>
+            <nombreAlumno>Luisa Antonia</nombreAlumno>
+            <edad>23</edad>
+            <direccion>Calle Fandanguillo 15, Cantillana</direccion>
+            <comentario>Sin comentarios</comentario>
+            <telefono>666666666</telefono>
+            <emailAlumno>trescorreos@hotmail.com</emailAlumno>
+        </alumno>
+        <alumno>
+            <nombreAlumno>Carlos Jesus</nombreAlumno>
+            <edad>22</edad>
+            <direccion>Calle Chiclana 7, Los Rosales-Tocina</direccion>
+            <comentario>Sin comentarios</comentario>
+            <telefono>696969696</telefono>
+            <emailAlumno>cuatrocorreos@hotmail.com</emailAlumno>
+        </alumno>
+    </alumnos>
+
+    <fechaCurso>2017-10-01</fechaCurso>
+</curso>
